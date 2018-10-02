@@ -1,0 +1,60 @@
+
+/* Class = "UITextField"; text = "3"; ObjectID = "10E-Ye-IYR"; */
+"10E-Ye-IYR.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "ورود به حساب کاربری"; ObjectID = "1R1-YS-6ri"; */
+"1R1-YS-6ri.normalTitle" = "ورود به حساب کاربری";
+
+/* Class = "UILabel"; text = "قبلا عضو شده اید ؟"; ObjectID = "4lv-2O-iKZ"; */
+"4lv-2O-iKZ.text" = "قبلا عضو شده اید ؟";
+
+/* Class = "UIButton"; normalTitle = "بازیابی کلمه عبور"; ObjectID = "5CN-aj-Mk8"; */
+"5CN-aj-Mk8.normalTitle" = "بازیابی کلمه عبور";
+
+/* Class = "UIButton"; normalTitle = "بازیابی کلمه عبور"; ObjectID = "7fx-Py-yCj"; */
+"7fx-Py-yCj.normalTitle" = "بازیابی کلمه عبور";
+
+/* Class = "UIButton"; normalTitle = "بازیابی کلمه عبور"; ObjectID = "C1J-fa-GNZ"; */
+"C1J-fa-GNZ.normalTitle" = "بازیابی کلمه عبور";
+
+/* Class = "UITextField"; text = "4"; ObjectID = "MaZ-HS-04e"; */
+"MaZ-HS-04e.text" = "4";
+
+/* Class = "UIButton"; normalTitle = "ورود"; ObjectID = "NLY-eI-kFu"; */
+"NLY-eI-kFu.normalTitle" = "ورود";
+
+/* Class = "UILabel"; text = "+۹۸۹۱۰۸۳۰۰۰۵۰"; ObjectID = "St6-qk-Zwc"; */
+"St6-qk-Zwc.text" = "+۹۸۹۱۰۸۳۰۰۰۵۰";
+
+/* Class = "UITextField"; placeholder = "رمز عبور"; ObjectID = "Vid-pf-aKV"; */
+"Vid-pf-aKV.placeholder" = "رمز عبور";
+
+/* Class = "UIButton"; normalTitle = "ثبت نام"; ObjectID = "WhZ-at-w2J"; */
+"WhZ-at-w2J.normalTitle" = "ثبت نام";
+
+/* Class = "UILabel"; text = "حساب کاربری ندارید ؟"; ObjectID = "WwX-k4-JaY"; */
+"WwX-k4-JaY.text" = "حساب کاربری ندارید ؟";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "mWD-uO-MiW"; */
+"mWD-uO-MiW.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "عضویت در فینیت"; ObjectID = "ocC-l7-XjR"; */
+"ocC-l7-XjR.normalTitle" = "عضویت در فینیت";
+
+/* Class = "UITextField"; placeholder = "نام کاربری"; ObjectID = "oul-9C-K65"; */
+"oul-9C-K65.placeholder" = "نام کاربری";
+
+/* Class = "UILabel"; text = "قبلا عضو شده اید ؟"; ObjectID = "uhH-Op-Dux"; */
+"uhH-Op-Dux.text" = "قبلا عضو شده اید ؟";
+
+/* Class = "UITextField"; placeholder = "پست الکترونیک (ایمیل)"; ObjectID = "wxr-RV-8sw"; */
+"wxr-RV-8sw.placeholder" = "پست الکترونیک (ایمیل)";
+
+/* Class = "UIButton"; normalTitle = "ورود"; ObjectID = "xRq-wE-oG2"; */
+"xRq-wE-oG2.normalTitle" = "ورود";
+
+/* Class = "UITextField"; placeholder = "شماره همراه"; ObjectID = "z7k-8B-1Lk"; */
+"z7k-8B-1Lk.placeholder" = "شماره همراه";
+
+/* Class = "UITextField"; text = "2"; ObjectID = "zPB-DG-GV8"; */
+"zPB-DG-GV8.text" = "2";
